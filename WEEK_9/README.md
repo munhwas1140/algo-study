@@ -18,6 +18,7 @@
 |Seorim| [link](BOJ_17136/Seorim.java)
 |gyuri| [link](BOJ_17136/gyuri.py)
 |hyeongjun| [link](BOJ_17136/hyeongjun.cpp)
+|seho| [link](BOJ_17136/seho.py)
 ---
 
 
