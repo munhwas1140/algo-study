@@ -1,4 +1,4 @@
-# WEEK_6
+# WEEK_06
 
 ### [BOJ_11559](https://boj.kr/11559) : Puyo Puyo
 
