@@ -32,6 +32,15 @@
 ---
 
 
+### [BOJ_32692](https://boj.kr/32692) : Double Up 2
+
+|이름|풀이 링크|
+|--|--|
+|hyeongjun| [link](BOJ_32692/hyeongjun)
+|hyeongjun| [link](BOJ_32692/hyeongjun.cpp)
+---
+
+
 ### [BOJ_3665](https://boj.kr/3665) : 최종 순위
 
 |이름|풀이 링크|
