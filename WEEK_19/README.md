@@ -36,7 +36,6 @@
 
 |이름|풀이 링크|
 |--|--|
-|hyeongjun| [link](BOJ_32692/hyeongjun)
 |hyeongjun| [link](BOJ_32692/hyeongjun.cpp)
 ---
 
