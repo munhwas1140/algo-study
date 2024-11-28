@@ -5,6 +5,7 @@
 |이름|풀이 링크|
 |--|--|
 |hyeongjun| [link](BOJ_10360/hyeongjun.cpp)
+|seho| [link](BOJ_10360/seho.py)
 |seorim| [link](BOJ_10360/seorim.py)
 ---
 
@@ -24,6 +25,7 @@
 |이름|풀이 링크|
 |--|--|
 |hyeongjun| [link](BOJ_1865/hyeongjun.cpp)
+|seho| [link](BOJ_1865/seho.py)
 |seorim| [link](BOJ_1865/seorim.py)
 ---
 
@@ -43,6 +45,7 @@
 |이름|풀이 링크|
 |--|--|
 |hyeongjun| [link](BOJ_2293/hyeongjun.cpp)
+|seho| [link](BOJ_2293/seho.py)
 |seorim| [link](BOJ_2293/seorim.py)
 ---
 
@@ -52,5 +55,6 @@
 |이름|풀이 링크|
 |--|--|
 |hyeongjun| [link](BOJ_2447/hyeongjun.cpp)
+|seho| [link](BOJ_2447/seho.py)
 |seorim| [link](BOJ_2447/seorim.py)
 ---
