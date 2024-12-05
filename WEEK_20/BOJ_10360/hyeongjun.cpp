@@ -37,7 +37,6 @@ int main() {
                 }
             }
         }
-
         queue<int> q; 
         for(auto &[now, next, cost] : tp) {
             if(dist[next] > dist[now] + cost) {
