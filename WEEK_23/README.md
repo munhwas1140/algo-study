@@ -6,6 +6,7 @@
 |--|--|
 |hyeongjun| [link](BOJ_2248/hyeongjun.cpp)
 |seho| [link](BOJ_2248/seho.py)
+|seorim| [link](BOJ_2248/seorim.py)
 ---
 
 
@@ -24,6 +25,15 @@
 |--|--|
 |hyeongjun| [link](BOJ_2287/hyeongjun.cpp)
 |seho| [link](BOJ_2287/seho.py)
+|seorim| [link](BOJ_2287/seorim.py)
+---
+
+
+### [BOJ_2667](https://boj.kr/2667) : 단지번호붙이기
+
+|이름|풀이 링크|
+|--|--|
+|seorim| [link](BOJ_2667/seorim.py)
 ---
 
 
@@ -33,6 +43,7 @@
 |--|--|
 |hyeongjun| [link](BOJ_3078/hyeongjun.cpp)
 |seho| [link](BOJ_3078/seho.py)
+|seorim| [link](BOJ_3078/seorim.py)
 ---
 
 
@@ -42,6 +53,7 @@
 |--|--|
 |hyeongjun| [link](BOJ_7576/hyeongjun.cpp)
 |seho| [link](BOJ_7576/seho.py)
+|seorim| [link](BOJ_7576/seorim.py)
 ---
 
 
@@ -51,4 +63,5 @@
 |--|--|
 |hyeongjun| [link](BOJ_9465/hyeongjun.cpp)
 |seho| [link](BOJ_9465/seho.py)
+|seorim| [link](BOJ_9465/seorim.py)
 ---
